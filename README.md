@@ -1,12 +1,5 @@
 # Blockchain-Based-Voting-System
 
-## Team Members
-
-
-- **Abhinav Singh** - 884448622 - abhinavsingh@csu.fullerton.edu
-- **Aditya Singh** - 884448614 - singhaditya@csu.fullerton.edu
-- **Sanjyot Satvi** - 885146977 - satvi.sanjyot@csu.fullerton.edu
-- **Sumit Rodrigues** - 885164426 - sumit.rodrigues@csu.fullerton.edu
 
 ## Project Overview
 
@@ -74,8 +67,5 @@ To set up and run the Blockchain Voting System on your local machine, follow the
 - Web3.js for Ethereum blockchain interaction
 - React.js and tailwind CSS for frontend development
 
-## GitHub Link to the DApp: https://github.com/iabhi4/Blockchain-Based-Voting-System.git
-
-Feel free to dive into the project, test the functionalities, and push improvements or bug fixes. If you encounter any issues or have suggestions, don't hesitate to contact or contribute directly to the repo.
 
 ---
